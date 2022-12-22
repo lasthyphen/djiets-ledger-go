@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec
-	github.com/lasthyphen/dijetsnodego v1.8.12
+	github.com/lasthyphen/dijetsnodego v1.8.13
 	github.com/stretchr/testify v1.8.0
 	github.com/zondax/ledger-go v0.13.0
 )
