@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/lasthyphen/dijetsnodego/utils/hashing"
+	"github.com/lasthyphen/dijetsnodesgo/utils/hashing"
 )
 
 // NOTE: You must have a physical ledger device to run this test

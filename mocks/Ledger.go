@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	ids "github.com/lasthyphen/dijetsnodego/ids"
+	ids "github.com/lasthyphen/dijetsnodesgo/ids"
 
 	mock "github.com/stretchr/testify/mock"
 )

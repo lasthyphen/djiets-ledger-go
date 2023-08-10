@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lasthyphen/dijetsnodego/ids"
-	"github.com/lasthyphen/dijetsnodego/utils/hashing"
+	"github.com/lasthyphen/dijetsnodesgo/ids"
+	"github.com/lasthyphen/dijetsnodesgo/utils/hashing"
 	ledger_go "github.com/zondax/ledger-go"
 )
 
